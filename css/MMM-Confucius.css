@@ -1,0 +1,19 @@
+/* Copy and paste any or all of these css entries into your custom.css file inside your
+ * css folder. The functions are annotated to make things as easy as possible for you.
+ * Use any colors you want! Go to - "http://htmlcolorcodes.com/color-picker/"
+ * Pick your color, copy and paste the HEX number. Example - #62FF00 = bright green.
+ */
+
+.MMM-Confucius .header {
+  color: white;                 /* Header color. */
+}
+
+.MMM-Confucius .quote {
+  color: #edd1d1;               /* Quote color. Default is white. */
+/*  font-size: .6em; */
+}
+
+.MMM-Confucius .author {
+  color: #62FF00;               /* Author color */
+/*  font-size: .6em; */
+}
